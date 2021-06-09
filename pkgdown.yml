@@ -1,0 +1,10 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  rppo-vignette: rppo-vignette.html
+last_built: 2021-07-13T08:15Z
+urls:
+  reference: https://docs.ropensci.org/rppo/reference
+  article: https://docs.ropensci.org/rppo/articles
+

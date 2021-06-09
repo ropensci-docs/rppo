@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "d6957c21245ad64fb25f21213685fe24ecc4608d",
+    "author": "John Deck <jdeck88@gmail.com>",
+    "time": "2021-06-09 18:17:05",
+    "files": 4,
+    "merge": false,
+    "message": "fixing errors with tests\n"
+  },
+  "remote": "https://github.com/ropensci/rppo",
+  "pkg": "rppo"
+}
