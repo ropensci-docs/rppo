@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "97ee9a35fc2308ef7e1b5fab11ae34795d48cc32",
+    "author": "John Deck <jdeck88@gmail.com>",
+    "time": "2023-06-22 17:12:47",
+    "files": 1,
+    "merge": false,
+    "message": "Update README.md"
+  },
+  "repo": "https://github.com/ropensci/rppo",
+  "pkg": "rppo"
+}
